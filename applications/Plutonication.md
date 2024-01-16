@@ -1,8 +1,8 @@
-# Plutonication
+# NAIRE
 
-- **Team Name:** Plutonication
+- **Team Name:** NAIRE
 - **Payment Address:** 1WmPE1X9Ykpb7QcVamPtUSRjEZy2GMDeTm5N72DyXYiqMCo (USDT)
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 3
 
 ## Project Overview :page_facing_up:
 
@@ -16,7 +16,7 @@ Please provide the following:
 
 #### A brief description of your project.
 
-- Plutonication allows users to connect PlutoWallet to other dApps seamlessly on any platforms, accross multiple codebases.
+NAIRE allows users to connect NAIREWallet to other dApps seamlessly on any platforms, accross multiple codebases.
 DApp just generates a QR code and once it is scanned in the wallet, they will pair and the wallet will be able to receive transaction requests from the dApp. It works on the same principle as WalletConnect protocol.
 
 - You can see a short (90 sec) demo here: https://youtu.be/hw2B8-sBc9A?si=O8MiWa0Wq1jxfZdr
